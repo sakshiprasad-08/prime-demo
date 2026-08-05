@@ -1,2 +1,2 @@
 # prime-demo
-This is a demo class for git and github.
+This is a demo class for git and github..
